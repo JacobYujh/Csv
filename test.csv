@@ -1,0 +1,5 @@
+isTrip,startTime,endTime,region,subject,destination
+0,2022-09-01,,10,autotest001,,
+1,2022-09-01,2022-10-01,10,autotest002,Beijing,
+0,2022-09-01,,20,autotest003,,
+1,2022-09-01,2022-10-01,20,autotest004,Beijing,
